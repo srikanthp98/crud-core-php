@@ -1,6 +1,7 @@
 <?
 ini_set('display_errors',1);
 error_reporting(E_ALL);
+
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', 'localhost');
